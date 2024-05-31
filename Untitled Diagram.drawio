@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2024-05-31T18:11:06.619Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="JUzhdmSQ4kfaPrsRKQl5" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-31T19:03:07.702Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="xaWyFh8jZOeP_nk6yiCu" version="24.4.13" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
-    <mxGraphModel dx="1061" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="60da8b9f42644d3a-2" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="316" y="405" width="280" height="305" as="geometry" />
         </mxCell>
-        <mxCell id="60da8b9f42644d3a-3" value="ÜRÜN YÖNETİMİ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="60da8b9f42644d3a-3" value="Veri Ulaşım Zorluğu" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="316" y="425" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="60da8b9f42644d3a-6" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
@@ -19,7 +19,7 @@
         <mxCell id="60da8b9f42644d3a-17" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FFC001;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="596" y="405" width="280" height="305" as="geometry" />
         </mxCell>
-        <mxCell id="60da8b9f42644d3a-18" value="KULLANICI DOSTU&lt;div&gt;ARAYÜZ&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="60da8b9f42644d3a-18" value="Kullanıcı Deneyimi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="596" y="425" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="60da8b9f42644d3a-20" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
@@ -31,7 +31,7 @@
         <mxCell id="60da8b9f42644d3a-24" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FFB001;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="876" y="405" width="280" height="305" as="geometry" />
         </mxCell>
-        <mxCell id="60da8b9f42644d3a-25" value="DİNAMİK SÜREÇ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="60da8b9f42644d3a-25" value="&amp;nbsp;Takip Zorluğu" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="876" y="425" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="60da8b9f42644d3a-27" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
@@ -43,7 +43,7 @@
         <mxCell id="60da8b9f42644d3a-31" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FE9900;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1156" y="405" width="280" height="305" as="geometry" />
         </mxCell>
-        <mxCell id="60da8b9f42644d3a-32" value="PERFORMAS ANALİZİ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="60da8b9f42644d3a-32" value="Zaman Kaybı" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1156" y="425" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="60da8b9f42644d3a-34" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
@@ -52,16 +52,16 @@
         <mxCell id="60da8b9f42644d3a-35" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1176" y="705" width="240" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="ffJWpeSRpo7Z3j3WvUWA-1" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Ürün yönetimi kolaylaştırma ve dinamikleştirme&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=24;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="316" y="540" width="280" height="60" as="geometry" />
+        <mxCell id="ffJWpeSRpo7Z3j3WvUWA-1" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Veri karmaşası ve bulma zorluluğu.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=24;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="316" y="550" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ffJWpeSRpo7Z3j3WvUWA-2" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Kullanıcı tarafından kolay kullanılabilirlik ve işlevsellik&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=24;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="596" y="540" width="280" height="60" as="geometry" />
+        <mxCell id="ffJWpeSRpo7Z3j3WvUWA-2" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;İlkel yöntemlerle geliştirilen planlama süreçleri yeni kullanıcı için öğrenme zorluğu yaşatmaktadır.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=24;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="596" y="550" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ffJWpeSRpo7Z3j3WvUWA-3" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Dinamik olarak modüller arasında değişim ve verimlikik&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=24;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="ffJWpeSRpo7Z3j3WvUWA-3" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;İlkel yöntemlerle yönetilen süreçler takip zorluluğu yaşatarak verimliliği düşürmektedir.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=24;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="876" y="550" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ffJWpeSRpo7Z3j3WvUWA-4" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Süreç sonrası gerçek zamanlı veri grafikleri&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=24;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="ffJWpeSRpo7Z3j3WvUWA-4" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Takip edilemeyen süreçler neticesinde oluşan aksilikler sebebiyle zaman kayıpları.&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=24;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1156" y="550" width="280" height="60" as="geometry" />
         </mxCell>
       </root>
